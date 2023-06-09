@@ -6,5 +6,5 @@
 ![Alt text](screenshot/tugas10/Verif.png)
 ## 3. Browser Mailtrap
 ![Alt text](screenshot/tugas10/Mailtrap.png)
-## 3. Browser Dashboard
+## 4. Browser Dashboard
 ![Alt text](screenshot/tugas10/Dashboard.png)
