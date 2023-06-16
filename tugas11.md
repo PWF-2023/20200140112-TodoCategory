@@ -1,7 +1,7 @@
 # Tugas 11
 
 ## 1. Login 
-![Alt text](screenshot/tugas11/Login.png)
+![Alt text](screenshot/tugas11/login.png)
 ## 2. Profile
 ![Alt text](screenshot/tugas11/profile.png)
 ## 3. Todo Index
@@ -13,4 +13,4 @@
 ## 6. Todo Search
 ![Alt text](screenshot/tugas11/TodoSearch.png)
 ## 7. Logout
-![Alt text](screenshot/tugas11/Logout.png)
+![Alt text](screenshot/tugas11/logout.png)
